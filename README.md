@@ -13,10 +13,14 @@ Question 2 files:
 Code: pandemic.ipynb
 Images: Images File - Question2Fig1.png & Question2Fig2.png
 
+Question 3 files:
+Code: Reviews.ipynb
+Images: Fig1.png, fig2_NY&Paris.png
+
 Question 4 files:
 Code: Question_4.ipynb
 Images: Eiffel_Tower.png, Times_Square.png
 
 In conclusion, we found that there was a pretty substantial drop in new hosts during the pandemic in comparison to the two periods of time prior, we also found that the two most popular places to host are Istanbul & Paris and Istanbul had the most new listings during the Pandemic.  We found that price didn't seem to have any weight on proximity. Affordable Airbnbs are available near popular tourist attractions such as the Eiffel Tower and Times Square. Also, when analyzing the relationship between amenities listed per Airbnb and listing price, we found that there is almost no correlation. There's many Airbnbs with listing prices that are extremely high in comparision to the amenities offered. However, other factors can also affect listing price, such as the location or the type of accommodation. 
 
-
+Regarding the third question, we assumed that more experienced hosts would receive fewer reviews than newer hosts who join the platform since, when the platform first started, there weren't many rules to go by. However, as time goes on, more information about what makes a good Airbnb host will become available, which will lead to higher customer ratings for the host who joins later. We found no relationship between the host's date of AirBnB membership and the ratings for their review scores after doing research on two of the most popular cities, New York and Paris.
