@@ -9,4 +9,8 @@ Question 2 files:
 Code: pandemic.ipynb
 Images: Images File - Question2Fig1.png & Question2Fig2.png
 
-In conclusion, we found that there was a pretty substantial drop in new hosts during the pandemic in comparison to the two periods of time prior, we also found that the two most popular places to host are Istanbul & Paris and Istanbul had the most new listings during the Pandemic.  We found that price didn't seem to have any weight on proximity.
+Question 4 files:
+Code: Question_4.ipynb
+Images: Eiffel_Tower.png, Times_Square.png
+
+In conclusion, we found that there was a pretty substantial drop in new hosts during the pandemic in comparison to the two periods of time prior, we also found that the two most popular places to host are Istanbul & Paris and Istanbul had the most new listings during the Pandemic.  We found that price didn't seem to have any weight on proximity. Affordable Airbnbs are available near popular tourist attractions such as the Eiffel Tower and Times Square.
